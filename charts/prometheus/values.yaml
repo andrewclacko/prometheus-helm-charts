@@ -479,7 +479,7 @@ nodeExporter:
 
   ## If true, node-exporter pods mounts host / at /host/root
   ##
-  hostRootfs: true
+  hostRootfs: false
 
   ## node-exporter container name
   ##
